@@ -1,0 +1,7 @@
+= Secure Coding Guidelines for Java SE
+
+:url-source: https://www.oracle.com/java/technologies/javase/seccodeguide.html
+
+NOTE: PDF printout of *Secure Coding Guidelines for Java SE (2020)*.
+Original document at {url-source}.
+
